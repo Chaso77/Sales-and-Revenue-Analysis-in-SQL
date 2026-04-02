@@ -32,4 +32,34 @@ Superstore Sales Data: The primary dataset used for this analysis is the “Supe
 - Time-Series Analysis
 - Business Analytics
 
-## Customer Lifetime Value (LTV)
+## 1. Customer Lifetime Value (LTV)
+
+```SQL
+SELECT 
+    CustomerID,
+    CustomerName,
+    SUM(Sales) AS Total_Revenue,
+    SUM(Profit) AS Total_Profit,
+    SUM(Sales) / COUNT(DISTINCT OrderID) AS Avg_Order_Value,
+    MIN(OrderDate) AS First_Purchase_Date,
+    MAX(OrderDate) AS Latest_Purchase_Date,
+    DATEDIFF(DAY, MIN(OrderDate), MAX(OrderDate)) AS Lifetime_Duration_Days
+FROM Orders
+GROUP BY 
+    CustomerID,
+    CustomerName
+ORDER BY 
+    Total_Revenue DESC;
+```
+## 2. Customer Segmentation
+  ### Segment Performance
+
+```SQL
+SELECT 
+    Segment,
+    SUM(Sales) AS Total_Sales,
+    SUM(Profit) AS Total_Profit,
+    SUM(Sales)*1.0/COUNT(DISTINCT OrderID) AS Avg_Order_Value
+FROM Orders
+GROUP BY Segment;
+```
