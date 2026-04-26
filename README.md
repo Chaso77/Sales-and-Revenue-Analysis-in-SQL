@@ -6,6 +6,15 @@
 - [Data Sources](#data-sources)
 - [Tools & Skills Used](#tools--skills-used)
 - [Customer Lifetime Value (LTV)](#1-customer-lifetime-value-ltv)
+- [Customer Segmentation](#2-customer-segmentation)
+- [Monthly Sales Trends](#3-monthly-sales--customer-trends)
+- [Market Basket Analysis](#4-market-basket-analysis)
+- [Pareto Analysis (80/20 Rule)](#5-pareto-analysis-8020-rule)
+- [Cohort Analysis (Retention)](#6-cohort-analysis-customer-retention)
+- [Time-Series Forecasting](#7-time-series-forecasting)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Strategic Business Reommendations](#strategic-business-recommendations)
 
 ### Project Overview
 
