@@ -305,9 +305,9 @@ Based on the analysis, the following data-driven actions are recommended:
 
 #### 5. Segment-Specific Strategy
 - Customize marketing and pricing strategies per segment:
-   - Consumer → volume-driven offers
-   - Corporate → bulk discounts
-   - Home Office → targeted bundles
+   - **Consumer** → volume-driven offers
+   - **Corporate** → bulk discounts
+   - **Home Office** → targeted bundles
 
 - Avoid one-size-fits-all campaigns
 
