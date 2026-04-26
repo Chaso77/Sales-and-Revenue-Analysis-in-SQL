@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [Project Overview](#Project-Overview)
-- [Data Sources](#Data-Sources)
-- [Tools & Skills Used](#-tools--skills-used)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools & Skills Used](#tools-skills-used)
 
 ### Project Overview
 
