@@ -1,5 +1,11 @@
 # Superstore SQL Analytics: Customer Insights, Cohort Analysis & Revenue Optimization
 
+## Table of Contents
+
+- [Project Overview](#Project-Overview)
+- [Data Sources](#Data-Sources)
+- [Tools & Skills Used](#-tools--skills-used)
+
 ### Project Overview
 
 This project performs an end-to-end business analysis on the Superstore dataset using Microsoft SQL Server.
