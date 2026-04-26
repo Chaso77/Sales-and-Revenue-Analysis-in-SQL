@@ -4,9 +4,8 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Tools & Skills Used](#tools-skills-used)
-- [Tools & Skills Used](#tools-skills-used)
-- [Customer Lifetime Value (LTV)](#-1-customer-lifetime-value-ltv)
+- [Tools & Skills Used](#tools--skills-used)
+- [Customer Lifetime Value (LTV)](#1-customer-lifetime-value-ltv)
 
 ### Project Overview
 
